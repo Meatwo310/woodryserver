@@ -69,6 +69,7 @@ h2 {
 .article-text {
     display: inline-block;
     text-align: left;
+    max-width: 60%;
 }
 
 
